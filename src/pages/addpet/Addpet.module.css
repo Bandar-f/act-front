@@ -1,0 +1,31 @@
+.container{
+  display:flex;
+  flex-direction: column;
+}
+
+.col1{
+  display:flex;
+  flex-direction:column;
+}
+
+.col2{
+
+}
+
+.form{
+  display:flex;
+  flex-direction:row;
+  justify-content: space-around;
+}
+
+.btn{
+  text-align:center;
+  max-width:80px;
+  margin-left:80px;
+  margin-top:0;
+}
+
+.tag{
+  margin:0;
+}
+

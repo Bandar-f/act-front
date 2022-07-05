@@ -1,0 +1,28 @@
+.container{
+  display:flex;
+  flex-direction:column;
+  margin-left:12px;
+
+}
+
+.head{
+  display:flex;
+  flex-direction:row;
+  justify-content:space-between;
+
+}
+
+.btn{
+  margin-top:13px;
+  margin-right:10px;
+  height:35px;
+  border:none;
+
+}
+
+
+.btn:hover{
+  background-color:burlywood;
+  color:white;
+}
+
